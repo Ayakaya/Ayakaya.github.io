@@ -1,3 +1,2 @@
-# Ayakaya.github.io Web Project Hosting!
-# Copyright:
+# Ayakaya.github.io Web Project Hosting! Copyright:
  PhET
